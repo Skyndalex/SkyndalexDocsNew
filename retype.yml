@@ -1,0 +1,20 @@
+input: .
+output: .retype
+url: krivebot.xyz
+favicon: static/skyndalex.png
+branding:
+  title: Skyndalex
+  label: v1.0
+  logo: static/skyndalex.png
+links:
+- text: Discord server
+  link: https://discord.gg/b3zaHCHaAJ
+- text: Official site
+  link: https://krivebot.xyz
+- text: Add bot
+  link: https://discord.com/api/oauth2/authorize?client_id=836529470122622986&permissions=0&scope=bot%20applications.commands
+- text: Github
+  link: https://github.com/Skyndalex/skyndalex
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
