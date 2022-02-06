@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krivebot.xyz/sitemap.xml.gz
