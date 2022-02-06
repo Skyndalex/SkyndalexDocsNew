@@ -25,11 +25,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/static/skyndalex.png" rel="icon" />
-    <link href="/resources/css/retype.css?v=1.11.2.697498972129" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.697500826998" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697498972129" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697500826998" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697498972129" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697500826998" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -222,6 +222,85 @@
         </div>
     </div>
 </div>
+<doc-anchor-target id="configuration-with-commands">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#configuration-with-commands">#</doc-anchor-trigger>
+        <span>Configuration with commands</span>
+    </h2>
+</doc-anchor-target>
+<p><code v-pre>/set &lt;type&gt; &lt;value&gt;</code></p>
+<doc-anchor-target id="types">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#types">#</doc-anchor-trigger>
+        <span>Types</span>
+    </h2>
+</doc-anchor-target>
+<doc-panel id="channels-list">
+    <template #title>Channels list</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Name</th>
+<th>Type</th>
+<th>Description</th>
+<th>Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>broadcastChannel</td>
+<td>Channel</td>
+<td>Post changes or important announcements about your server</td>
+<td><code v-pre>/broadcast &lt;string&gt;</code></td>
+</tr>
+<tr>
+<td>suggestionsChannel</td>
+<td>Channel</td>
+<td>Send suggestion to server administration</td>
+<td><code v-pre>/suggest &lt;string&gt;</code></td>
+</tr>
+<tr>
+<td>complaintsChannel</td>
+<td>Channel</td>
+<td>Send complaint to server administration</td>
+<td><code v-pre>/complaint &lt;user&gt; &lt;string&gt;</code></td>
+</tr>
+<tr>
+<td>imagesChannel</td>
+<td>Channel</td>
+<td>Only images on the channel</td>
+<td>Not described</td>
+</tr>
+<tr>
+<td>welcomeChanel</td>
+<td>Channel</td>
+<td>Welcomes users</td>
+<td>Sends a welcome message</td>
+</tr>
+<tr>
+<td>goodbyeChannel</td>
+<td>Channel</td>
+<td>Says goodbye to users</td>
+<td>Sends a goodbye message</td>
+</tr>
+<tr>
+<td>applicationChannel</td>
+<td>Channel</td>
+<td>Sends an application</td>
+<td><code v-pre>/application &lt;string&gt;</code></td>
+</tr>
+</tbody>
+</table>
+</div>
+</doc-panel>
+<doc-anchor-target id="examples">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#examples">#</doc-anchor-trigger>
+        <span>Examples</span>
+    </h3>
+</doc-anchor-target>
+<p><code v-pre>/set broadcastChannel #broadcasts</code></p>
 
 
 
