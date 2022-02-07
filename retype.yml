@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: krivebot.xyz
+url: skyndalex.xyz
 favicon: static/skyndalex.png
 branding:
   title: Skyndalex
@@ -10,7 +10,7 @@ links:
 - text: Discord server
   link: https://discord.gg/b3zaHCHaAJ
 - text: Official site
-  link: https://krivebot.xyz
+  link: https://skyndalex.xyz
 - text: Add bot
   link: https://discord.com/api/oauth2/authorize?client_id=836529470122622986&permissions=0&scope=bot%20applications.commands
 - text: Github
