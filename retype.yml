@@ -3,7 +3,7 @@ output: .retype
 url: skyndalex.xyz
 favicon: static/skyndalex.png
 branding:
-  title: Skyndalex
+  title: Skyndalex.XYZ
   label: v1.0.0b
   logo: static/skyndalex.png
 links:
