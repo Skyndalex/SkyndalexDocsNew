@@ -5,7 +5,7 @@ You can set up channels with commands or dashboard
 !!!
 
 ## Configuration with commands
-`/set <type> <value>`
+`/set <name> <string>`
 
 ## Types
 
