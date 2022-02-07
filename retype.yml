@@ -4,7 +4,7 @@ url: krivebot.xyz
 favicon: static/skyndalex.png
 branding:
   title: Skyndalex
-  label: v1.0
+  label: v1.0.0 beta
   logo: static/skyndalex.png
 links:
 - text: Discord server
