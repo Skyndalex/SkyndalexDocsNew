@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://krivebot.xyz/sitemap.xml.gz
+Sitemap: https://skyndalex.xyz/sitemap.xml.gz
