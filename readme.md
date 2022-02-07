@@ -1,4 +1,4 @@
-# Guide
+# Start
 Welcome to this tutorial! 
 By entering here you probably want to learn more about the Skyndalex bot. 
 I hope this tutorial will help you with that.
