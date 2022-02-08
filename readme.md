@@ -12,7 +12,7 @@ Dashboard will not be released until September
 !!!
 
 !!! :question: Where is the main __skyndalex.xyz__ site?
-This page on the main domain is only temporary, soon it will be on a separate domain **skyndalex.xyz**
+This page on the main domain is only temporary, soon it will be on a separate domain **docs.skyndalex.xyz**
 !!!
 # Start
 Welcome to this tutorial! 
