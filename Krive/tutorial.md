@@ -7,3 +7,7 @@ Krive od 08.02.2022 będzie aktualizowany, aby testować stabilność bota i now
 Wcześniej funkcje będą testowane na specjalnych botach BETA aby nie wydać na produkcję żadnych błędów.
 
 ![Krive](https://cdn.discordapp.com/avatars/836529470122622986/0190d3b5cf8bf38726e728b2778f3df0.png?size=4096)
+
+# Używanie komend
+
+Komendy znajdziesz w liście pod slashem `[/]`. Możesz też oznaczyć bota
