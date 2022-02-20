@@ -10,7 +10,7 @@ Things built into the code:
 - [ ] Project cards
 - [ ] Team
 - [ ] Team add
-- [ ] Stars
+- [x] Stars
 - [ ] Pull request reviews
 - [ ] Forks
 - [ ] Project create
