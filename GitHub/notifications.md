@@ -18,6 +18,7 @@ Things built into the code:
 - [ ] Pull requests
 - [x] Issues
 - [x] Issues comments
+- [x] Issue reopened info
 - [x] Commits
 - [x] Commit comments
 - [x] Discussion comments
