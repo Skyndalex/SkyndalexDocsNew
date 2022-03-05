@@ -4,6 +4,8 @@ This documentation describes the only Skyndalex bot that will be released as a b
 If you want to go to the Krive tutorial, go to [this](http://skyndalex.xyz/krive/tutorial/) documentation
 [!ref KriveBot Tutorial link (Polish only!)](Krive/tutorial.md)
 
+!!!warning Info for polish users
+**Krive** zostanie wkrótce wyłączony. Dedykowany poradnik dla tego bota zostanie usunięty. Zamiast krive będzie dostępny nowy i stabilniejszy bot z ciekawszymi komendami, *Skyndalex*
 !!!
 
 !!!info Bot release
