@@ -1,41 +1,24 @@
-!!!info VERSION v1.0 (Skyndalex)
-This documentation describes the only Skyndalex bot that will be released as a brand new bot
-
-If you want to go to the Krive tutorial, go to [this](http://skyndalex.xyz/krive/tutorial/) documentation
-[!ref KriveBot Tutorial link (Polish only!)](Krive/tutorial.md)
-
-!!!warning Info for polish users
-**Krive** zostanie wkrótce wyłączony. Dedykowany poradnik dla tego bota zostanie usunięty. Zamiast krive będzie dostępny nowy i stabilniejszy bot z ciekawszymi komendami, *Skyndalex*
+!!!success
+Documentation is fully compatible with the latest version of the bot `v0.5` (Development version)
 !!!
 
-!!!info Bot release
-Since I have a lot of original ideas for the Skyndalex bot, I'm forced to extend release date until the middle of this year or the end of the year.
-Dashboard will not be released until September
+!!!danger
+We are working on new documentation! It will be published on 16.03.2022
 !!!
 
-!!! :question: Where is the main __skyndalex.xyz__ site?
-This page on the main domain is only temporary, soon it will be on a separate domain **docs.skyndalex.xyz**
-!!!
-# Start
-Welcome to this tutorial! 
-By entering here you probably want to learn more about the Skyndalex bot. 
-I hope this tutorial will help you with that.
+## Links
+[!ref Skyndalex services status](https://status.skyndalex.xyz)
+[!ref Discord support](https://discord.gg/QKKvM2yeN3)
+[!ref GitHub](https://github.com/Skyndalex)
+[!ref Bot link](https://discord.com/oauth2/authorize?client_id=836529470122622986&permissions=0&scope=bot%20applications.commands)
 
-## Adding bot
-You can add bot with this link:
-https://discord.com/api/oauth2/authorize?client_id=836529470122622986&permissions=0&scope=bot%20applications.commands
+## Contents
 
-!!!warning
-Other links may cause slash-commands not to load on your server
-!!!
-### Commands
-You can find the commands under the prefix `/`.
-![Slash-Commands](https://cdn.upload.systems/uploads/AuCREPWG.png)
-## How to use
-Follow the arrows on the bottom, menu on the right or left. You can also search for the value
+### General
+[!ref Tickets](/Skyndalex/tickets.md)
+[!ref Settings](/Skyndalex/settings.md)
 
-## Versions
-
-`s` - stable
-
-`b` - beta 
+### Github-Manager
+[!ref Webhook events & payloads](/GitHub/all-github-events.md)
+[!ref Intro](/GitHub/intro.md) 
+[!ref Notifications](/GitHub/notifications.md)
