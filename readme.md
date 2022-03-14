@@ -15,8 +15,8 @@ We are working on new documentation! It will be published on 16.03.2022
 ## Contents
 
 ### General
-[!ref Tickets](/Skyndalex/tickets.md)
-[!ref Settings](/Skyndalex/settings.md)
+[!ref Tickets](/Guide/tickets.md)
+[!ref Settings](/Guide/settings.md)
 
 ### Github-Manager
 [!ref Webhook events & payloads](/GitHub/all-github-events.md)
