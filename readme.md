@@ -1,8 +1,6 @@
-SoonTM
+# Work In progress!
 
-# What are we planning?
-
-- Advanced Ticket system
-- Advanced channels guild management
-- custom website generator (in retype.com style) to simplify our tasks outside of Discord. Probably won't be public.
-- And more! (99% plans are secret is secret and I can't list them here. Maybe in the future...) - yeah, its 1%
+!!! danger "v1.0 Soon"
+We are constantly working on the development of the bot, enriching it with new features and fixes. 
+Changes are posted on the #github channel, on [Discord](https://discord.gg/RkUYDx5bhM), and other stuff can be found on [Trello](https://trello.com/b/NrfT9JgV/skyndalex-v10).
+!!!
